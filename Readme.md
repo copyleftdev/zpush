@@ -110,6 +110,7 @@ make test
 ## Contributing 🤝
 
 Contributions are welcome! If you have ideas, improvements, or bug fixes:
+
 - Fork this repository.
 - Create a feature branch.
 - Open a pull request with a clear description of your changes.
