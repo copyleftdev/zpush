@@ -1,6 +1,3 @@
-Below is an enriched, creative, and vibrant README for the copyleftdev/zpush tool:
-
-```markdown
 # zpush 🚀
 
 Welcome to **zpush** – a Rust-powered CLI tool that makes pushing your environment secrets to GitHub as fun as it is functional! With a colorful UI, clever progress bars, and playful emojis, zpush turns mundane secret management into an enjoyable experience.
@@ -129,6 +126,3 @@ zpush is released under the **MIT License**. See the [LICENSE](LICENSE) file for
 ## Acknowledgements 💖
 
 Built with passion by the copyleftdev community. Enjoy a vibrant, efficient, and fun secret management experience – and happy coding! 😎✨
-```
-
-This README blends practical usage instructions with creative, engaging language and plenty of emojis to keep things fun while delivering essential information about the tool. Enjoy using zpush!
