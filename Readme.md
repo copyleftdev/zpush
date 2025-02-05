@@ -1,5 +1,6 @@
 # zpush 🚀
 [![Rust](https://github.com/copyleftdev/zpush/actions/workflows/rust.yml/badge.svg)](https://github.com/copyleftdev/zpush/actions/workflows/rust.yml)
+
 Welcome to **zpush** – a Rust-powered CLI tool that makes pushing your environment secrets to GitHub as fun as it is functional! With a colorful UI, clever progress bars, and playful emojis, zpush turns mundane secret management into an enjoyable experience.
 
 ---
